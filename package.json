@@ -17,6 +17,7 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
+    "locakKubenetesClient": "file:../javascript/",
     "dotenv": "^8.2.0"
   }
 }
